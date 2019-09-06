@@ -1,2 +1,1 @@
-this is a new test file
-cs17b008
+CS18B006
